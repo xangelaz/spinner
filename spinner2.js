@@ -1,4 +1,4 @@
-const spinnerPositions = ['|', '/', '-', '\\', '|'];
+const spinnerPositions = ['|', '/', '-', '\\', '|', '/', '-', '\\', '|'];
 const duration = 200;
 
 let animateSpinner = function() {
